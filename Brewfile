@@ -57,6 +57,7 @@ cask install dropbox
 cask install totalfinder
 cask install hipchat
 cask install sequel-pro
+cask install atom
 
 # update
 cask update
