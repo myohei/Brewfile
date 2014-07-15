@@ -9,6 +9,7 @@ install brew-cask || true
 ## tools
 install wget || true
 install git
+install hg
 install libtool
 install tree
 install pcre
