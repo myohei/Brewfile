@@ -17,6 +17,7 @@ install libpng
 install gcc
 install openssl
 install mcrypt
+install cmake
 
 ## dev
 install mysql
@@ -24,8 +25,8 @@ install mongodb
 install sqlite
 install imagemagick
 install nginx
+install docker
 install nvm
-
 
 ## lang
 install android-sdk
