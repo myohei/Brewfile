@@ -26,6 +26,7 @@ install sqlite
 install imagemagick
 install nginx
 install docker
+install packer
 install nvm
 
 ## lang
@@ -60,6 +61,7 @@ cask install totalfinder
 cask install hipchat
 cask install sequel-pro
 cask install atom
+cask install mysqlworkbench
 
 # update
 cask update
