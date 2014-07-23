@@ -26,6 +26,7 @@ install sqlite
 install imagemagick
 install nginx
 install docker
+install boot2docker
 install packer
 install nvm
 
